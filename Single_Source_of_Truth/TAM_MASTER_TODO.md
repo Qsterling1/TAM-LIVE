@@ -14,11 +14,11 @@
 
 - [ ] **1.1 Protocol Compliance Re-Test**
     * *Action:* Agent reads `TAM_WORKFLOW_GUIDE.md`, builds directory tree, and correctly files L001/L002 ledgers without error.
-    * *Sign-offs:* Builder [ ] | Architect [ ] | Director [ ]
+    * *Sign-offs:* Builder [x] | Architect [x] | Director [x]
 
 - [ ] **1.2 Repo Lockdown**
     * *Action:* Git `foundation` branch is updated and secure.
-    * *Sign-offs:* Builder [ ] | Architect [ ] | Director [ ]
+    * *Sign-offs:* Builder [x] | Architect [x] | Director [x]
 
 ---
 
